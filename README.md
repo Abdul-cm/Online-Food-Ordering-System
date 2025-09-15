@@ -62,9 +62,3 @@ A complete PHP web application for online food ordering with admin panel.
 ├── DB-MY-SQL/            # Database file
 └── *.php                 # Main pages
 ```
-
-## Developer
-
-**Abdul Rahman**
-- GitHub: [@Abdul-cm](https://github.com/Abdul-cm)
-- Email: samwra34@gmail.com
