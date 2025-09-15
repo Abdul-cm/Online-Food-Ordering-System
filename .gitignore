@@ -1,0 +1,56 @@
+# PHP specific ignores
+*.log
+*.tmp
+*.cache
+
+# Database connection (sensitive)
+# includes/dbconnection.php
+
+# Uploaded images that might be sensitive
+# itemimages/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+Thumbs.db
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Temporary files
+tmp/
+temp/
+*.bak
+
+# Configuration files that might contain sensitive data
+config.php
+settings.php
+
+# Log files
+error.log
+access.log
+*.log
+
+# Node modules (if any)
+node_modules/
+
+# Composer
+vendor/
+composer.lock
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Backup files
+*.sql.bak
+backup/
